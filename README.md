@@ -7,7 +7,7 @@
 
   <!-- Texto animado digitando -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=700&lines=Apaixonado+por+Dados%2C+IA+e+Inova%C3%A7%C3%A3o;Explorando+o+universo+de+Google+Cloud;Criando+Sistemas+Multi-Agentes+inteligentes;Sempre+aprendendo+e+construindo+coisas+novas!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=550&lines=Apaixonado+por+Dados%2C+IA+e+Inova%C3%A7%C3%A3o;Explorando+o+universo+de+Google+Cloud;Criando+Sistemas+Multi-Agentes+inteligentes;Sempre+aprendendo+e+construindo+coisas+novas!" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -21,8 +21,8 @@
   <a href="https://www.linkedin.com/in/arthur-faria-silva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Arthur-2612/arthur-faria-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://arthur-faria-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:arthur.silva@exemplo.com">
     <img src="https://img.shields.io/badge/Bater_um_papo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -74,15 +74,15 @@ Fique super à vontade para passear pelos meus repositórios! Aqui você vai enc
     </td>
   </tr>
   <tr>
-        <td width="50%">
-      <h3 align="center">🔄 sistema-trocas-alunos</h3>
+    <td width="50%">
+      <h3 align="center">📊 Ci-ncia-de-Dados</h3>
       <p align="center">
-        <a href="https://github.com/Arthur-2612/sistema-trocas-alunos">
-          <img src="https://img.shields.io/badge/Conhecer_Projeto-blue?style=flat-square&logo=github" alt="Sistema Trocas Repo"/>
+        <a href="https://github.com/Arthur-2612/Ci-ncia-de-Dados">
+          <img src="https://img.shields.io/badge/Conhecer_Projeto-blue?style=flat-square&logo=github" alt="Data Science Repo"/>
         </a>
       </p>
-      <p>Plataforma para troca e compartilhamento de materiais acadêmicos entre alunos do SENAI, com modelagem relacional PostgreSQL, APIs REST e Spring Boot.</p>
-      <p><b>Tecnologias:</b> <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Docker</code> <code>MVC</code></p>
+      <p>Projetos práticos de exploração e análise estatística de dados (EDA), tratamento de dados relacionais e visualização gráfica com Python.</p>
+      <p><b>Tecnologias:</b> <code>Python</code> <code>Jupyter Notebook</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code></p>
     </td>
     <td width="50%">
       <h3 align="center">⚡ meu-projeto-nextjs</h3>
